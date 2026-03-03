@@ -49,7 +49,8 @@ ________________________________________
 
 Analyzes employment type and manager status, tracks KPIs such as headcount, turnover, salary, and workforce cost, and provides insights on gender, age group, regional distribution, and yearly headcount trends.
 
-<img width="957" height="541" alt="Screenshot 2026-02-22 113533" src="https://github.com/user-attachments/assets/27c462a5-cb11-4af4-9f60-4f779fad2bd2" />
+<img width="1139" height="615" alt="Demographics page" src="https://github.com/user-attachments/assets/c31feab9-ea1e-4033-984a-5437f3dee0cc" />
+
 
 ________________________________________
 
