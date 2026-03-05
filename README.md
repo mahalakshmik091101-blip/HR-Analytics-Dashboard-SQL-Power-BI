@@ -1,6 +1,6 @@
+<img width="1333" height="742" alt="Screenshot 2026-03-05 113024" src="https://github.com/user-attachments/assets/5c750c2a-01e3-46fc-8e53-eb5dade7c451" />
+<img width="1328" height="748" alt="Screenshot 2026-03-05 113040" src="https://github.com/user-attachments/assets/43f1b25c-9048-4fea-91ed-728985121627" />
 
-<img width="1139" height="615" alt="Demographics page" src="https://github.com/user-attachments/assets/1654e01a-c8fc-420a-bc97-916b8357a4a1" />
-<img width="958" height="536" alt="Performance Page" src="https://github.com/user-attachments/assets/fa21c324-3791-4f4b-93e0-1485df48e0bd" />
 
 HR Analytics Dashboard | SQL • Power BI 
 
