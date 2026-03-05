@@ -1,7 +1,3 @@
-<img width="1328" height="748" alt="Screenshot 2026-03-05 113040" src="https://github.com/user-attachments/assets/43b762b5-f9b4-4132-ae1c-0b537f23072d" />
-<img width="1333" height="742" alt="Screenshot 2026-03-05 113024" src="https://github.com/user-attachments/assets/cac0862a-cb8c-421a-820b-2c67f2dd90fc" />
-
-
 
 
 HR Analytics Dashboard | SQL • Power BI 
