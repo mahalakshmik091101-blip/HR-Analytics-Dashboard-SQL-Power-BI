@@ -1,5 +1,6 @@
-<img width="958" height="536" alt="Performance Page" src="https://github.com/user-attachments/assets/fa21c324-3791-4f4b-93e0-1485df48e0bd" />
+
 <img width="1139" height="615" alt="Demographics page" src="https://github.com/user-attachments/assets/1654e01a-c8fc-420a-bc97-916b8357a4a1" />
+<img width="958" height="536" alt="Performance Page" src="https://github.com/user-attachments/assets/fa21c324-3791-4f4b-93e0-1485df48e0bd" />
 
 HR Analytics Dashboard | SQL • Power BI 
 
